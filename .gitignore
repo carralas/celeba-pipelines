@@ -1,0 +1,6 @@
+*.DS_Store
+*.csv
+*.jpg
+*.zip
+.ipynb_checkpoints/
+/graphs
